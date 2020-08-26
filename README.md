@@ -1,6 +1,6 @@
 # Employee-Attrition-Prediction
 
-It is ML based project that predicts the Employee Attrition.This project was implemented during Traning cum Internship by *Consulting & Analytic Club IIT-Gawhati*. This project was hosted on Kaggle as Hackathon.It is solemly based different ML approach to predict the employee Atrrition.
+It is ML based project that predicts the Employee Attrition.This project was implemented during Traning  by *Consulting & Analytic Club IIT-Gawhati*. This project was hosted on Kaggle as Hackathon.It is solemly based different ML approach to predict the employee Atrrition.
 
 **Dataset** : *IBM DataSet*
 
